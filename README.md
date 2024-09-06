@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrinathSezhiyan
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently working as a full stack developer
+- 💞️ I’m looking to collaborate on full stack web development
 - 📫 How to reach me through mail at srisezhiyan@gmail.com
 
 <!---
